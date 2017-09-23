@@ -1,1 +1,0 @@
-# PowerCLI-Script-to-Install-VMware-Host-Patches
